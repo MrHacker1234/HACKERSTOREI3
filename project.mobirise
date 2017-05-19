@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-05-13_1507",
-    "currentPage": "subwaysurfers.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -61,12 +61,12 @@
           "_name": "header2",
           "_anchor": "header2-b",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "31",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -74,7 +74,7 @@
             "overlay": true,
             "overlayOpacity": 0.3,
             "overlayColor": "#000",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": true,
@@ -84,7 +84,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/81jzmw9eall-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -98,9 +102,17 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "Zombie Tsunami Hack",
+          "text": "Mobigame &nbsp;(Arcade)<br>4.4 Ratings",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TRWxEN2NKQXZ0SFE\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_tags": [
@@ -110,11 +122,11 @@
           "_anchor": "header1-c",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -128,7 +140,7 @@
             "showButtons": false
           },
           "title": "DISCRIPTION<br><br>",
-          "text": "The zombies are revolting ! Attack the city with a horde of zombies, change pedestrians into zombies and create the largest horde.<br>Eat your friends, and challenge them to a crazy race by destroying everything in your path.<br><br>Zombie Tsunami has proudly exceeded 200 million players around the world.<br><br>FEATURES<br>- \"One touch\" gameplay to control the entire hord<br>- 10 delirious bonuses, ninjas, dragons, UFOs, and many more<br>- Many upgrades to unlock<br>- Raise zombie birds and use their powers<br>- More than 300 missions to devour<br>- 11 sets to travel in<br>- Optimized for all Android models.<br>",
+          "text": "The zombies are revolting ! Attack the city with a horde of zombies, change pedestrians into zombies and create the largest horde.<br>Eat your friends, and challenge them to a crazy race by destroying everything in your path.<br><br>Zombie Tsunami has proudly exceeded 200 million players around the world.<br><br>FEATURES<br>- \"One touch\" gameplay to control the entire hord<br>- 10 delirious bonuses, ninjas, dragons, UFOs, and many more<br>- Many upgrades to unlock<br>- Raise zombie birds and use their powers<br>- More than 300 missions to devour<br>- 11 sets to travel in<br>- Optimized for all Android models.<br><br>(The Hack include Unlimited Coins)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-title": {
@@ -137,8 +149,8 @@
             },
             ".mbr-section-lead": {
               "color": "#000000",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
         },
@@ -411,7 +423,7 @@
           },
           "_anchor": "header2-9",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "32",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
