@@ -494,3 +494,24 @@ h6,
 #msg-box4-h H3 {
   font-size: 48px;
 }
+
+#header2-j .mbr-section-title {
+  color: #000000;
+}
+#header2-j .mbr-section-text {
+  color: #000000;
+}
+#header1-k .mbr-section-lead {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#header1-k .mbr-section-title {
+  color: #000000;
+  font-size: 30px;
+}
+#header6-l .mbr-section-title {
+  color: #28262b;
+}
+#header6-l .mbr-section-text {
+  color: #565656;
+}
