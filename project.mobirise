@@ -111,7 +111,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -125,11 +125,22 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "DISCRIPTION<br><br>",
+          "text": "The zombies are revolting ! Attack the city with a horde of zombies, change pedestrians into zombies and create the largest horde.<br>Eat your friends, and challenge them to a crazy race by destroying everything in your path.<br><br>Zombie Tsunami has proudly exceeded 200 million players around the world.<br><br>FEATURES<br>- \"One touch\" gameplay to control the entire hord<br>- 10 delirious bonuses, ninjas, dragons, UFOs, and many more<br>- Many upgrades to unlock<br>- Raise zombie birds and use their powers<br>- More than 300 missions to devour<br>- 11 sets to travel in<br>- Optimized for all Android models.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "30px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "header2",
@@ -147,12 +158,12 @@
           "_name": "header6",
           "_anchor": "header6-d",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "57",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -163,8 +174,8 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
-            "showArrow": true
+            "showButtons": false,
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -185,7 +196,7 @@
             }
           },
           "title": "Zombie Tsunami Officiak Trailer",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "text": "By Mobigame (c)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
@@ -453,8 +464,8 @@
           "_styles": {
             ".mbr-section-lead": {
               "color": "#000000",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".mbr-section-title": {
               "color": "#000000",
