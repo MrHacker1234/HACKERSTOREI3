@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 
 
 
@@ -431,5 +432,26 @@ h6,
   color: #28262b;
 }
 #header6-4 .mbr-section-text {
+  color: #565656;
+}
+
+#header2-9 .mbr-section-title {
+  color: #000000;
+}
+#header2-9 .mbr-section-text {
+  color: #000000;
+}
+#header1-7 .mbr-section-lead {
+  color: #000000;
+  font-family: 'Roboto Slab', serif;
+}
+#header1-7 .mbr-section-title {
+  color: #000000;
+  font-size: 30px;
+}
+#header6-6 .mbr-section-title {
+  color: #28262b;
+}
+#header6-6 .mbr-section-text {
   color: #565656;
 }
