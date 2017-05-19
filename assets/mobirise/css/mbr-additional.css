@@ -475,3 +475,22 @@ h6,
 #header6-d .mbr-section-text {
   color: #565656;
 }
+
+#header2-f .mbr-section-title {
+  color: #000000;
+}
+#header2-f .mbr-section-text {
+  color: #000000;
+}
+#header1-g .mbr-section-title {
+  color: #000000;
+  text-align: center;
+  font-size: 30px;
+}
+#header1-g .mbr-section-lead {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box4-h H3 {
+  font-size: 48px;
+}
