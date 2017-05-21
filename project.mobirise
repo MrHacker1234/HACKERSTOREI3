@@ -1164,10 +1164,14 @@
           },
           "title": "Log-In To Hacker Store",
           "text": "To continue to Hacker Store, You Need to Log-In. Log-in on Public account, Private account feature coming soon.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://pdcpdc04.wixsite.com/mysite\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Log In as Public Account</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://pdcpdc04.wixsite.com/mysite\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-refresh mbr-iconfont mbr-iconfont-btn\"></span>Refresh the server</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://pdcpdc04.wixsite.com/mysite\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Log In as Public Account</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mrhacker1234.github.io/HACKERSTOREI3/login.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-refresh mbr-iconfont mbr-iconfont-btn\"></span>Refresh the server</a> ",
           "_styles": {
             ".mbr-section-title": {
               "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
         }
