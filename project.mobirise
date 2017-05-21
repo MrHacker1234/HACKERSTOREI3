@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-05-13_1507",
-    "currentPage": "deadtrigger.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 24,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -433,6 +433,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header2-b",
           "_params": {
             "imageSize": "31",
@@ -478,21 +486,24 @@
           },
           "title": "Zombie Tsunami Hack",
           "text": "Mobigame &nbsp;(Arcade)<br>4.4 Ratings",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TRWxEN2NKQXZ0SFE\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TRWxEN2NKQXZ0SFE\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "30px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "header1-c",
           "_params": {
             "parallax": true,
@@ -515,18 +526,7 @@
           },
           "title": "DISCRIPTION<br><br>",
           "text": "The zombies are revolting ! Attack the city with a horde of zombies, change pedestrians into zombies and create the largest horde.<br>Eat your friends, and challenge them to a crazy race by destroying everything in your path.<br><br>Zombie Tsunami has proudly exceeded 200 million players around the world.<br><br>FEATURES<br>- \"One touch\" gameplay to control the entire hord<br>- 10 delirious bonuses, ninjas, dragons, UFOs, and many more<br>- Many upgrades to unlock<br>- Raise zombie birds and use their powers<br>- More than 300 missions to devour<br>- 11 sets to travel in<br>- Optimized for all Android models.<br><br>(The Hack include Unlimited Coins)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "30px"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "header2",
@@ -618,6 +618,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header2-f",
           "_params": {
             "imageSize": "28",
@@ -663,21 +671,25 @@
           },
           "title": "Plants Vs. Zombies Hack",
           "text": "Electronic Arts &nbsp;(Strategy)<br>4.4 Ratings",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TQnFmNjAyTFFraVU\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TQnFmNjAyTFFraVU\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "header1-g",
           "_params": {
             "parallax": true,
@@ -700,19 +712,7 @@
           },
           "title": "DISCRIPTION<br><br>",
           "text": "Get ready to soil your plants as a mob of fun-loving zombies is about to invade your home. Use your arsenal of 49 zombie-zapping plants — peashooters, wall-nuts, cherry bombs and more — to mulchify 26 types of zombies before they break down your door. <br><br>This app offers in-app purchases. You may disable in-app purchasing using your device settings<br><br>WINNER OF OVER 30 GAME OF THE YEAR AWARDS*<br><br>50 FUN-DEAD LEVELS<br>Conquer all 50 levels of Adventure mode — through day, night, fog, in a swimming pool, on the rooftop and more. Plus fend off a continual wave of zombies as long as you can with Survival mode!<br><br>NOT GARDEN-VARIETY GHOULS<br>Battle zombie pole-vaulters, snorkelers, bucketheads and 26 more fun-dead zombies. Each has its own special skills, so you'll need to think fast and plant faster to combat them all.<br>Requires acceptance of EA’s Privacy &amp; Cookie Policy and User Agreement.<br><br>SMARTER THAN YOUR AVERAGE ZOMBIE<br>Be careful how you use your limited supply of greens and seeds. Zombies love brains so much they'll jump, run, dance, swim and even eat plants to get into your house. Open the Almanac to learn more about all the zombies and plants to help plan your strategy. <br><br>FIGHT LONGER, GET STRONGER<br>Earn 49 powerful perennials as you progress and collect coins to buy a pet snail, power-ups and more.<br><br>GROW WITH YOUR GAME<br>Show off your zombie-zapping prowess by earning 46 awesome achievements and show off your zombie-zapping prowess.<br><br>COIN PACKS<br>Need coins for great new stuff? Buy up to 600,000 coins right from the Main Menu.<br><br>(The Hack Includes unlimited Coins, Gems &amp; Suns)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "text-align": "center",
-              "font-size": "30px"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -720,6 +720,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "48px"
+            }
+          },
           "_anchor": "msg-box4-h",
           "_params": {
             "imageSize": "58",
@@ -762,12 +767,7 @@
           },
           "title": "Plants Vs. Zombies Official Trailer<br>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "48px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -802,6 +802,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header2-j",
           "_params": {
             "imageSize": "30",
@@ -847,21 +855,24 @@
           },
           "title": "Dead Trigger Hack",
           "text": "MADFINGER Games &nbsp;(Action)<br>4.6 Ratings",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TeXdpV1l6OG1QNFU\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TeXdpV1l6OG1QNFU\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "30px"
+            }
+          },
           "_anchor": "header1-k",
           "_params": {
             "parallax": true,
@@ -884,18 +895,7 @@
           },
           "title": "DISCRIPTION<br><br>",
           "text": "Visually Stunning First Person Zombie Shooter Arcade !!!<br>More then 26M downloads !<br><br>* Supports extended effects on Tegra 3 devices *<br><br>“The world has collapsed. <br><br>In 2012 modern civilization is coming to an end. Global economics have been disrupted, money has lost its value. People have risen against the ignorant politicians who were just lining their pockets – and they didn't spare any of them. <br><br>However, those who really ruled the world were prepared - and escaped. Suddenly billions of people died from a strange virus, while others turned into butcherly beasts with just one thought: <br>TO KILL!<br><br>Only a few people on the planet have survived, at least until they run out of ammo... or learn how to stop them...”<br><br>Smash hordes of bloodthirsty zombies * Secure vital supplies * Save other survivors * Protect the Safe Haven * Explore the city * and uncover the provoking truth in this intense FPS action game!&nbsp;<br><br>(The Hack includes unlimited Gold &amp; Money)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "30px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "header2",
@@ -953,6 +953,94 @@
           "title": "INTRO WITH YOUTUBE VIDEO",
           "text": "By MADFINGER Games (c)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    },
+    "news.html": {
+      "settings": {
+        "title": "Site Maker Title",
+        "meta_descr": "Site Maker Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Daily Apps"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-n",
+          "_params": {
+            "imageSize": "20",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#0b8e73",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ic-launcher-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "&nbsp;(1) Enjoy Hacker Store version 1.0",
+          "text": "&nbsp;Thank You for downloading Hacker Store. New Updates and features comming soon.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     }

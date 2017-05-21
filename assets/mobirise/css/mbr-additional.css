@@ -515,3 +515,9 @@ h6,
 #header6-l .mbr-section-text {
   color: #565656;
 }
+#header2-n .mbr-section-text {
+  color: #000000;
+}
+#header2-n .mbr-section-title {
+  color: #000000;
+}
