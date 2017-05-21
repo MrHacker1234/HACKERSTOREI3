@@ -549,3 +549,11 @@ h6,
 #form1-t SMALL {
   font-family: 'Roboto', sans-serif;
 }
+
+#form2-v .mbr-section-title {
+  color: #000000;
+}
+#form2-v .mbr-section-subtitle {
+  color: #a0a0a0;
+  font-family: 'Roboto', sans-serif;
+}
