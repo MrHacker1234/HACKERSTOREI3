@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-05-23_0229",
-    "currentPage": "index.html",
+    "currentPage": "video.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1"
   },
   "pages": {
-    "index.html": {
+    "video.html": {
       "settings": {
         "main": true,
         "title": "",
