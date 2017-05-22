@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-05-13_1507",
-    "currentPage": "subscribe.html",
+    "currentPage": "login.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -987,6 +987,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header2-n",
           "_params": {
             "imageSize": "20",
@@ -1032,15 +1040,7 @@
           },
           "title": "&nbsp;(1) Enjoy Hacker Store version 1.0",
           "text": "&nbsp;Thank You for downloading Hacker Store. New Updates and features comming soon.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#000000"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -1075,6 +1075,16 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header1-p",
           "_params": {
             "parallax": true,
@@ -1097,17 +1107,7 @@
           },
           "title": "Your App is the Latest Version<br><br>",
           "text": "Latest Version 1.0&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "color": "#000000"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -1142,6 +1142,15 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "header1-r",
           "_params": {
             "parallax": true,
@@ -1164,16 +1173,7 @@
           },
           "title": "Log-In To Hacker Store",
           "text": "To continue to Hacker Store, You Need to Log-In. Log-in on Public account, Private account feature coming soon.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://pdcpdc04.wixsite.com/mysite\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Log In as Public Account</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mrhacker1234.github.io/HACKERSTOREI3/login.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-refresh mbr-iconfont mbr-iconfont-btn\"></span>Refresh the server</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-lead": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://pdcpdc04.wixsite.com/mysite\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Log In as Public Account</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mrhacker1234.github.io/HACKERSTOREI3/login.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-refresh mbr-iconfont mbr-iconfont-btn\"></span>Refresh the server</a> "
         }
       ]
     },
@@ -1208,6 +1208,15 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "form1-t",
           "_params": {
             "labelsColor": "#232323",
@@ -1253,16 +1262,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"etl-icon icon-document mbr-iconfont mbr-iconfont-btn\"></span>SEND FEEDBACK</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            "SMALL": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"etl-icon icon-document mbr-iconfont mbr-iconfont-btn\"></span>SEND FEEDBACK</a>"
         }
       ]
     },
