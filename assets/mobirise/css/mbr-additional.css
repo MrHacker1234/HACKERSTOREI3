@@ -572,3 +572,24 @@ h6,
 #header6-z .mbr-section-text {
   color: #565656;
 }
+
+#header2-11 .mbr-section-title {
+  color: #000000;
+}
+#header2-11 .mbr-section-text {
+  color: #000000;
+}
+#header1-12 .mbr-section-title {
+  color: #000000;
+  font-size: 30px;
+}
+#header1-12 .mbr-section-lead {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#header6-13 .mbr-section-title {
+  color: #28262b;
+}
+#header6-13 .mbr-section-text {
+  color: #565656;
+}
