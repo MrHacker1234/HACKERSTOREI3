@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -410,4 +412,163 @@ h6,
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
+}
+#header2-2 .mbr-section-title {
+  color: #000000;
+}
+#header2-2 .mbr-section-text {
+  color: #000000;
+}
+#header1-3 .mbr-section-title {
+  color: #000000;
+  font-size: 36px;
+}
+#header1-3 .mbr-section-lead {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#header6-4 .mbr-section-title {
+  color: #28262b;
+}
+#header6-4 .mbr-section-text {
+  color: #565656;
+}
+
+#header2-9 .mbr-section-title {
+  color: #000000;
+}
+#header2-9 .mbr-section-text {
+  color: #000000;
+}
+#header1-7 .mbr-section-lead {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#header1-7 .mbr-section-title {
+  color: #000000;
+  font-size: 30px;
+}
+#header6-6 .mbr-section-title {
+  color: #28262b;
+}
+#header6-6 .mbr-section-text {
+  color: #565656;
+}
+
+#header2-b .mbr-section-title {
+  color: #000000;
+}
+#header2-b .mbr-section-text {
+  color: #000000;
+}
+#header1-c .mbr-section-title {
+  color: #000000;
+  font-size: 30px;
+}
+#header1-c .mbr-section-lead {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#header6-d .mbr-section-title {
+  color: #28262b;
+}
+#header6-d .mbr-section-text {
+  color: #565656;
+}
+
+#header2-f .mbr-section-title {
+  color: #000000;
+}
+#header2-f .mbr-section-text {
+  color: #000000;
+}
+#header1-g .mbr-section-title {
+  color: #000000;
+  text-align: center;
+  font-size: 30px;
+}
+#header1-g .mbr-section-lead {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box4-h H3 {
+  font-size: 48px;
+}
+
+#header2-j .mbr-section-title {
+  color: #000000;
+}
+#header2-j .mbr-section-text {
+  color: #000000;
+}
+#header1-k .mbr-section-lead {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#header1-k .mbr-section-title {
+  color: #000000;
+  font-size: 30px;
+}
+#header6-l .mbr-section-title {
+  color: #28262b;
+}
+#header6-l .mbr-section-text {
+  color: #565656;
+}
+#header2-n .mbr-section-text {
+  color: #000000;
+}
+#header2-n .mbr-section-title {
+  color: #000000;
+}
+
+#header1-p .mbr-section-lead {
+  font-family: 'Roboto', sans-serif;
+  color: #000000;
+}
+#header1-p .mbr-section-title {
+  color: #000000;
+}
+
+#header1-r .mbr-section-title {
+  color: #000000;
+}
+#header1-r .mbr-section-lead {
+  font-family: 'Roboto', sans-serif;
+}
+
+#form1-t .form-control-label {
+  color: #232323;
+}
+#form1-t SMALL {
+  font-family: 'Roboto', sans-serif;
+}
+
+#form2-v .mbr-section-title {
+  color: #000000;
+}
+#form2-v .mbr-section-subtitle {
+  color: #a0a0a0;
+  font-family: 'Roboto', sans-serif;
+}
+
+#header2-x .mbr-section-title {
+  color: #000000;
+}
+#header2-x .mbr-section-text {
+  color: #000000;
+}
+#header1-y .mbr-section-title {
+  color: #000000;
+  font-size: 30px;
+}
+#header1-y .mbr-section-lead {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#header6-z .mbr-section-title {
+  color: #000000;
+}
+#header6-z .mbr-section-text {
+  color: #565656;
 }
