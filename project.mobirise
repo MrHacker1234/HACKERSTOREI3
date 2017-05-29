@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-05-13_1507",
-    "currentPage": "tubemate.html",
+    "currentPage": "login.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1173,7 +1173,7 @@
           },
           "title": "Log-In To Hacker Store",
           "text": "To continue to Hacker Store, You Need to Log-In. Log-in on Public account, Private account feature coming soon.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://pdcpdc04.wixsite.com/mysite\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Log In as Public Account</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mrhacker1234.github.io/HACKERSTOREI3/login.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-refresh mbr-iconfont mbr-iconfont-btn\"></span>Refresh the server</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://pdcpdc04.wixsite.com/home\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Log In as Public Account</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mrhacker1234.github.io/HACKERSTOREI3/login.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-refresh mbr-iconfont mbr-iconfont-btn\"></span>Refresh the server</a> "
         }
       ]
     },
@@ -1371,6 +1371,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header2-x",
           "_params": {
             "imageSize": "31",
@@ -1416,21 +1424,24 @@
           },
           "title": "Cartoon Photos: Funny Photo Editor",
           "text": "Daily Apps &nbsp;(Photo and editing)<br>4.5 Ratings",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TTUpqbDljVk1rOFk\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TTUpqbDljVk1rOFk\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "30px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "header1-y",
           "_params": {
             "parallax": true,
@@ -1453,18 +1464,7 @@
           },
           "title": "DISCRIPTION<br><br>",
           "text": "Want to make your friends photo funny, then Install this awesome app made by us. A variety of cliparts to choose from, Insert cartoon cliparts to make your photo funny and awesome. Download the app today",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "30px"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "header2",
@@ -1556,6 +1556,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header2-11",
           "_params": {
             "imageSize": "26",
@@ -1601,21 +1609,24 @@
           },
           "title": "Vidmate (Hacker Market Exclusive)",
           "text": "Vidmate.Inc &nbsp;(Entertainment)<br>4.3 Ratings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "30px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "header1-12",
           "_params": {
             "parallax": true,
@@ -1638,18 +1649,7 @@
           },
           "title": "DISCRIPTION<br><br>",
           "text": "Hacker Market Exclusive- Download any video directly from YouTube. Safe, Fast and awesome expirence. Download Vidmate Today!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "30px"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "header2",
@@ -1741,6 +1741,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header2-15",
           "_params": {
             "imageSize": "27",
@@ -1786,21 +1794,24 @@
           },
           "title": "TubeMate",
           "text": "TUBEMATE Technologies &nbsp;(Entertainment)<br>4.2 Ratings",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "30px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "header1-16",
           "_params": {
             "parallax": true,
@@ -1823,24 +1834,19 @@
           },
           "title": "DISCRIPTION<br><br>",
           "text": "TubeMate was the first app to allow users to directly download videos from YouTube. Download any video from popular sites like YouTube, DailyMotion etc. Fast, Light weight, safe for users. Download TubeMate today!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "30px"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "30px"
+            }
+          },
           "_anchor": "header1-18",
           "_params": {
             "parallax": true,
@@ -1863,13 +1869,7 @@
           },
           "title": "NO AVALIABLE VIDEO ON THE SERVER TO SHOW, SORRY!",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "30px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     }
